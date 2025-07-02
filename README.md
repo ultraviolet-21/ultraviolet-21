@@ -8,8 +8,8 @@ Welcome to my GitHub! I’m a student passionate about building practical, real-
 - 💡 **Machine Learning & Python:** Creating smart solutions, from data analysis to predictive models.
 - 🤖 **Hardware Projects:** Arduino experiments and IoT fun.
 - 🗃️ **Databases:** SQL enthusiast, building organized, meaningful datasets.
-- 📦 **Other Tech:** Obsidian for note-taking, Docker for containers, Tableau for data viz.
-- **Preferred OS:** Windows, but getting comfortable with Linux
+- 📦 **Other Tech:** Obsidian for note-taking, Docker for containers, Tableau for data visualization.
+- 🖥️ **Preferred OS:** Windows, but getting comfortable with Linux
 
 ---
 ## 🚀 Featured Projects
