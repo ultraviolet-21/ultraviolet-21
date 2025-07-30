@@ -9,7 +9,7 @@ Welcome to my GitHub! I’m a student passionate about building practical, real-
 - 🤖 **Hardware Projects:** Arduino experiments and IoT fun.
 - 🗃️ **Databases:** SQL enthusiast, building organized, meaningful datasets.
 - 📦 **Other Tech:** Obsidian for note-taking, Docker for containers, Tableau for data visualization.
-- 🖥️ **Preferred OS:** Windows, but getting comfortable with Linux
+- 🖥️ **Preferred OS:** Windows, but getting comfortable with Linux.
 
 ---
 ## 🚀 Featured Projects
@@ -23,7 +23,7 @@ Welcome to my GitHub! I’m a student passionate about building practical, real-
 ---
 ## 🌱 What Drives Me
 
-I’m motivated by tech for social good. My projects aim to solve real problems and make positive change—especially when it comes to the environment.
+I’m motivated by tech for social good. My projects aim to solve real problems and make positive change - especially when it comes to the environment.
 
 ---
 ## 🎵 More About Me
