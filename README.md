@@ -36,7 +36,6 @@ I’m motivated by tech for social good. My projects aim to solve real problems 
 ---
 ## 📚 Want to Read
 
- - Station Eleven
  - Three Body Problem
  - Cadillac Desert
  - A Wizard of Earthsea
